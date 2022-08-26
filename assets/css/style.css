@@ -1,0 +1,8 @@
+
+/* body {
+    background-color: linear-gradient(0deg,#000000, #ffffff) !important;
+  } */
+
+  #grad {
+    background-image: linear-gradient(rgb(8, 8, 10), rgb(255, 255, 255));
+  }
